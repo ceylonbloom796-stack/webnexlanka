@@ -1,0 +1,8 @@
+{
+  "name": "WebNexlanka - Premier Website & AI Agency",
+  "description": "A high-performance digital agency specializing in custom professional websites, autonomous AI agents, and enterprise-grade mobile applications for global businesses.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
